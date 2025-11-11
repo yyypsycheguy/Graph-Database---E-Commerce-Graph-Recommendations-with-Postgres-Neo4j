@@ -12,3 +12,8 @@ neo4j/data/
 neo4j/logs/
 neo4j/import/
 neo4j/plugins/
+
+notes.md
+postgres/data
+app/__pycache__/
+TD2-graph-database/
